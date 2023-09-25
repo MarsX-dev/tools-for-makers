@@ -25,3 +25,5 @@ Here are some of the most important websites that I use on a daily basis:
 - [Supabase](http://supabase.com) - Free db.
 - [Overtracking](http://overtracking.com) - Free analytics.
 - [Crisp Chat](http://crisp.chat) - Free live chat.
+- [Canny](http://canny.io) - Free customer feedback integration.
+- [Clerk](http://clerk.com) - Free user auth.
