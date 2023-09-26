@@ -1,4 +1,7 @@
-# Tools for Makers
+# Tools for Makers <!-- omit in toc -->
+
+- [The Most Important Websites for Founders and Makers](#the-most-important-websites-for-founders-and-makers)
+- [Open Source alternatives to XXX](#open-source-alternatives-to-xxx)
 
 ## The Most Important Websites for Founders and Makers
 
