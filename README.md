@@ -1,4 +1,6 @@
-# The Most Important Websites for Founders and Makers
+# Tools for Makers
+
+## The Most Important Websites for Founders and Makers
 
 Here are some of the most important websites that I use on a daily basis:
 
@@ -27,3 +29,36 @@ Here are some of the most important websites that I use on a daily basis:
 - [Crisp Chat](http://crisp.chat) - Free live chat.
 - [Canny](http://canny.io) - Free customer feedback integration.
 - [Clerk](http://clerk.com) - Free user auth.
+
+## Open Source alternatives to XXX
+
+- [supabase.com](http://supabase.com) - firebase
+- [documenso.com](http://documenso.com) - docu sign
+- [cal.com](http://cal.com) - calendly
+- [plausible.io](http://plausible.io) - google analytics
+- [devhunt.org](http://devhunt.org) - product hunt
+- [ai.meta](http://ai.meta).com/llama - open ai gpt
+- [papermark.io](http://papermark.io) - docsend
+- [godotengine.org](http://godotengine.org) - unity3d
+- [marsx.dev](http://marsx.dev) - all dev world
+- [ghost.org](http://ghost.org) - medium
+- [joinmastodon.org](http://joinmastodon.org) - twitter
+- [rowy.io](http://rowy.io) - airtable
+- [sentry.io](http://sentry.io) - error tracking
+- [n8n.io](http://n8n.io) - zappier
+- [appsmith.com](http://appsmith.com) - retool
+- [clickhouse.com](http://clickhouse.com) - bigquery
+- [gitlab.com](http://gitlab.com) - github
+- [penpot.app](http://penpot.app) - figma
+- [jenkins.io](http://jenkins.io) - devops
+- [forem.com](http://forem.com) - circle
+- [posthog.com](http://posthog.com) - mixpanel
+- [dub.co](http://dub.co) - bitly
+- [opencart.com](http://opencart.com) - shopify
+- [typesense.org](http://typesense.org) - algolia
+- [appflowy.io](http://appflowy.io) - notion
+- [webstudio.is](http://webstudio.is) - webflow
+- [typebot.io](http://typebot.io) - Typeform
+- [passbolt.com](http://passbolt.com) - 1Password
+- [@shadcn](http:x.com/shadcn) - tailwind ui
+- [@nutlope](http:x.com/nutlope) - ai tools
