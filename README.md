@@ -2,6 +2,7 @@
 
 - [The Most Important Websites for Founders and Makers](#the-most-important-websites-for-founders-and-makers)
 - [Open Source alternatives to XXX](#open-source-alternatives-to-xxx)
+- [Follow @johnrushx for more!](#follow-johnrushx-for-more)
 
 ## The Most Important Websites for Founders and Makers
 
@@ -77,15 +78,15 @@ Here are some of the most important websites that I use on a daily basis:
 - [Diagram](https://diagram.com)
 - [Vercel](https://vercel.com)
 - [Genius.design](https://genius.design)
-- [Liveblocks.io](https://liveblocks.io) 
-- [Tubecut.app ](https://tubecut.app)
-- [Rive.app ](https://rive.app )
-- [Resend ](https://resend.com ) 
-- [Iconifyai](https://iconifyai.com ) 
-- [Fantomshift ](https://fantomshift.com ) 
-- [Mindrudan ](https://mindrudan.com )
-- [Alignui ](https://alignui.com )
-- [Buildshowandtell ](https://buildshowandtell.com )
+- [Liveblocks.io](https://liveblocks.io)
+- [Tubecut.app](https://tubecut.app)
+- [Rive.app ](https://rive.app)
+- [Resend ](https://resend.com)
+- [Iconifyai](https://iconifyai.com)
+- [Fantomshift ](https://fantomshift.com)
+- [Mindrudan ](https://mindrudan.com)
+- [Alignui ](https://alignui.com)
+- [Buildshowandtell ](https://buildshowandtell.com)
 - [Lazy.so](https://lazy.so)
 - [Neon.tech](https://neon.tech)
 - [Replay.io](https://replay.io)
@@ -93,7 +94,7 @@ Here are some of the most important websites that I use on a daily basis:
 - [37signals.com](https://37signals.com)
 - [Dub.co](https://dub.co)
 - [Shipfa.st](https://shipfa.st)
-- [Framer.university](https://framer.university) 
+- [Framer.university](https://framer.university)
 - [Read.cv ](https://read.cv)
 - [gitness.com](https://gitness.com)
 - [appwrite.io](https://appwrite.io)
@@ -109,14 +110,15 @@ Here are some of the most important websites that I use on a daily basis:
 - [clickhouse.com](https:/clickhouse.tech/)
 - [kee.so](https:/kee.so/)
 
-### If you've enjoyed this list, follow [@johnrushx](https://twitter.com/johnrushx) for more content like this,
+## Follow [@johnrushx](https://twitter.com/johnrushx) for more!
 
-I build everything in public and share all the details of my process.
+I build everything in public and share all the details of my process. If you've enjoyed this list, follow me on Twitter for more.
 
 Also, check out some of my projects
-→ [unicornplatform.com](https://unicornplatform.com) - a simple landing page builder for busy founders
-→ [seobotai.com](https://seobotai.com) - AI blog & SEO on auto-pilot 
-→ [marketsy.ai](https://marketsy.ai) - AI marketplace builder
-→ [marsx.dev](https://marsx.dev) - AI NoCode/ProCode platform with micro apps
-→ [floatui.com](https://floatui.com) - Tailwind CSS ui kit
-→ [devhunt.org](https://devhunt.org) - A better Product Hunt alternative for dev tools.
+
+- [unicornplatform.com](https://unicornplatform.com) - a simple landing page builder for busy founders
+- [seobotai.com](https://seobotai.com) - AI blog & SEO on auto-pilot
+- [marketsy.ai](https://marketsy.ai) - AI marketplace builder
+- [marsx.dev](https://marsx.dev) - AI NoCode/ProCode platform with micro apps
+- [floatui.com](https://floatui.com) - Tailwind CSS ui kit
+- [devhunt.org](https://devhunt.org) - A better Product Hunt alternative for dev tools.
